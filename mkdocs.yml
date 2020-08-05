@@ -1,0 +1,5 @@
+site_name: Timon Docs
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+theme: readthedocs
