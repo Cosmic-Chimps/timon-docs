@@ -1,1 +1,3 @@
-# timon-docs
+# Timon-Docs
+
+[Index](docs/index.md)
