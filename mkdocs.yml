@@ -2,4 +2,5 @@ site_name: Timon Docs
 nav:
   - Home: index.md
   - Architecture: architecture.md
+  - Data Analysis: dataanalisys.md
 theme: readthedocs
